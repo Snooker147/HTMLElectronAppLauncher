@@ -10,11 +10,8 @@
 	"keywords": [],
 	"author": "Dominik 'Snooker147' Rataj <snooker147.server@gmail.com> (https://twitter.com/MrSnooker_147)",
 	"license": "ISC",
-	"dependencies": {
-		"node-fetch": "^2.3.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
-		"@types/node-fetch": "^2.1.6",
 		"electron": "^4.0.7",
 		"electron-packager": "^13.1.1",
 		"rimraf": "^2.6.3",
