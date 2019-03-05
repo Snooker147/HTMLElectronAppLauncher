@@ -1,0 +1,4 @@
+Here put all files (and folders) that should be loaded when the app starts
+By default an index.html file should be present.
+
+Then just run npm run-script build
